@@ -39,6 +39,7 @@ const Signup = () => {
             type="password"
             label="Password"
             placeholder="Enter password"
+            isPassword
           />
         </Col>
       </Row>
@@ -49,6 +50,7 @@ const Signup = () => {
             type="password"
             label="Re-type Password"
             placeholder="Enter Password"
+            isPassword
           />
         </Col>
       </Row>
