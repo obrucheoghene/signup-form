@@ -1,4 +1,4 @@
-import { Button, Col, Row } from 'react-bootstrap';
+import { Col, Row } from 'react-bootstrap';
 import CustomInput from '../components/CustomInput';
 import Logo from '../components/Logo';
 
