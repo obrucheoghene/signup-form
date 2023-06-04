@@ -11,14 +11,14 @@ const Signup = () => {
         <p>Discover your social & Try to sign up</p>
       </div>
       <Row className=" mb-3">
-        <Col sm={6}>
+        <Col xs={6}>
           <CustomInput
             type="text"
             label="First Name"
             placeholder="Enter first name"
           />
         </Col>
-        <Col sm={6}>
+        <Col xs={6}>
           <CustomInput
             type="text"
             label="Last Name"
